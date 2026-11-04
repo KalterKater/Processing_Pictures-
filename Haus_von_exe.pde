@@ -1,0 +1,12 @@
+size(450,450);
+background(40);
+fill(150);
+beginShape();
+vertex(125,400);
+vertex(125,150);
+vertex(225,50);
+vertex(325,150);
+vertex(125,150);
+vertex(325,150);
+vertex(325,400);
+endShape();
